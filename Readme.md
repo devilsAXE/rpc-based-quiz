@@ -29,7 +29,7 @@ EXECUTION: (IF RUNNING ON DIFFERENT MACHINES)
 SOLUTION : We implemented the given task on the linux based Sun RPC. The client stub when run asks
 	   for a unique username with which the client would be identified for subsequent procedures 
            Following is a rough workflow of the client stub.
-
+<pre>
 		******************
 		| Enter Username |
 		******************
@@ -53,7 +53,7 @@ shown  		shown		decreasing 	is deleted 		|
 
 
 
-
+</pre>
 
 
 
